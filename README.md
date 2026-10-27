@@ -16,7 +16,18 @@ Live site: https://conversionadvantage00.github.io/ca-case-studies/
 - Every page has `noindex`, so search engines don't list them. They're meant to be shared directly with prospects.
 - Each case study's "more success stories" button links back to the index page.
 - The outreach email's "read the case study" links point to these URLs. **Don't rename the files**, or those links will break.
-- Master copies and build notes live in Google Drive: `Claude Code/conversion-advantage/Outreach/`.
+- Master copies live in Google Drive: `Claude Code/conversion-advantage/Outreach/case-studies-master-template/`. There is one folder per case study, plus the master template and the design rules in `CASE-STUDY-MASTER.md`.
+
+## Case study pages
+
+All four case studies use the same master design (v3, October 2026), styled to match the Conversion Advantage website:
+
+- **Hero:** a full-screen client photo with the headline. The cream page slides up over it as you scroll.
+- **The results:** a grid of six result cards. The headline figure is the highlighted card.
+- **Sliding-title sections:** "the brief", one section per channel, then "the takeaways". A large two-line title slides out from behind a vertical gradient line as the section scrolls into view.
+- **Closing section:** a "want results like these?" call to action, followed by the source note for the figures.
+
+To update a case study, edit the master copy in Google Drive, then upload the HTML file here under the same name. Each folder's `README.md` has the steps.
 
 ## Landing page (index.html)
 
