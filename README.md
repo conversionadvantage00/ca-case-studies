@@ -17,7 +17,7 @@ Live site: https://conversionadvantage00.github.io/ca-case-studies/
 - Each case study's "more success stories" button links back to the index page.
 - The outreach email's "read the case study" links point to these URLs. **Don't rename the files**, or those links will break.
 - `email-images/` holds the images and fonts the outreach email loads (e.g. `…/ca-case-studies/email-images/card-shamwari.jpg`). Don't rename or delete these while an email using them is live.
-- **This repo is the source of truth for the published pages.** A read-only mirror lives in Google Drive at `Claude Code/conversion-advantage/Outreach/02_case-studies-site/`. The page template and its build notes are in `Outreach/03_case-study-template/`.
+- **This repo is the source of truth for the published pages.** A read-only mirror lives in Google Drive at `Claude Code/conversion-advantage/Outreach/02_case-studies-site/`. The page template and its build notes are archived in `Outreach/99_archive/03_case-study-template/`.
 
 ## Case study pages
 
